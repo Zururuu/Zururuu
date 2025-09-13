@@ -1,7 +1,7 @@
 # M. Juang Irsyad Mubarok
 Hi there, I'm Irsyad (he/him)—a newbie programmer from Indonesia.
 
-## Little thing about me
+## Little things about me
 <ul>
   <li>I’m currently learning more things about <b>programming</b></li>
   <li>Want to be a <b>game developer</b> or <b>voice actor</b> someday</li>
