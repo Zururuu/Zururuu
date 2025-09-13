@@ -15,5 +15,5 @@ Hi there, I'm Irsyad (he/him)—a newbie programmer from Indonesia.
 </ul>
 
 ## Thank you for coming! :D
-<img src="https://i.pinimg.com/originals/e3/20/c1/e320c15d441957a2331d519f8c802120.gif" width="255" /><img src="https://i.pinimg.com/originals/b9/f1/94/b9f1947f21f38625f26ea8803dc2142c.gif" width="255" />
+<img src="https://i.pinimg.com/originals/b9/f1/94/b9f1947f21f38625f26ea8803dc2142c.gif" width="256" /> <img src="https://c.tenor.com/Td5Y1yT7BNYAAAAC/tenor.gif" width="269" />
 <p><s>(Me when I'm learning about programming)</s></p>
