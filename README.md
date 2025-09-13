@@ -1,5 +1,5 @@
 # M. Juang Irsyad Mubarok
-Hi there, I'm Irsyad (he/him)—a newbie programmer from Indonesia.
+Hi there, I'm Irsyad (a.k.a <b>Zururuu</b>)—a newbie programmer from Indonesia.
 
 ## Little things about me
 <ul>
@@ -15,5 +15,5 @@ Hi there, I'm Irsyad (he/him)—a newbie programmer from Indonesia.
 </ul>
 
 ## Thank you for coming! :D
-<img src="https://i.pinimg.com/originals/b9/f1/94/b9f1947f21f38625f26ea8803dc2142c.gif" width="256" /> <img src="https://c.tenor.com/Td5Y1yT7BNYAAAAC/tenor.gif" width="269" />
+<img src="https://c.tenor.com/Td5Y1yT7BNYAAAAC/tenor.gif" width="250" />
 <p><s>(Me when I'm learning about programming)</s></p>
